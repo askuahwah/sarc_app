@@ -1,7 +1,7 @@
 
 # Sarc App
 
-Brief description or introduction of Sarc App.
+Creating an intuitive and user-friendly event creation feature within the mobile app, enabling users to effortlessly generate and publish events. This pertains solely to the app's frontend
 
 ## Getting Started
 
