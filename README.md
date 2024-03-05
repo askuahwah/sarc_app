@@ -1,7 +1,7 @@
 
 # Sarc App
 
-Brief description or introduction of your Flutter app.
+Brief description or introduction of Sarc App.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ Brief description or introduction of your Flutter app.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/askuahwah/sarc_app.git
+   https://github.com/askuahwah/sarc_app.git
    ```
 
 2. Navigate to the project directory:
