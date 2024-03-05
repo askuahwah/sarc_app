@@ -10,7 +10,7 @@ class MyHome extends StatelessWidget {
       appBar: AppBar(
         title: Text(
           'SARC',
-          textAlign: Null,
+          textAlign: TextAlign.center,
         ),
         backgroundColor: Colors.blue,
         leading: Builder(
